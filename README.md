@@ -1,2 +1,2 @@
-# 💻Projeto de Python da DIO
+# 💻Projeto da Trilha Python DIO 
  
